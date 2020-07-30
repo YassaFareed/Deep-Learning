@@ -1,0 +1,6 @@
+https://www.statsmodels.org/stable/generated/statsmodels.stats.outliers_influence.variance_inflation_factor.html
+http://statisticalhorizons.com/multicollinearity
+
+VIF>10 unacceptable
+VIF=1 no multicollinearity
+1<VIF<5  perfectly okay
